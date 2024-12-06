@@ -1,5 +1,6 @@
-1.3
+1.6
 changelogs: (
 - neues UI
-- Performance besser
+- Map Tool
+- Bann Tool
 )
